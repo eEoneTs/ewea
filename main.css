@@ -1,0 +1,16 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,500,700,300,100);
+
+@import "/cssfiles/bg.css";
+@import "/cssfiles/table.css";
+
+*{
+    margin: 0;
+    padding: 0;
+  }
+  
+body {
+    font-family: "Roboto", helvetica, arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    text-rendering: optimizeLegibility;
+}
